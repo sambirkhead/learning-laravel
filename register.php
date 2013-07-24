@@ -8,7 +8,7 @@ require_once("includes/user.php");
 	<h1>Register</h1>
 	<h2>Become a Record Rater for free</h2>
 </div>
-
+   
 <?php
 $oForm = new form();
 
